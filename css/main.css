@@ -3622,13 +3622,12 @@ html[data-useragent*='rv:11.0'] .ss-go-top::after {
   background-color: #ff69b4 !important;
 }
 
-/* Target h3 and h1 inside the .intro-text class */
 .intro-text h3 {
-    font-size: 3em;  /* Bigger size */
-    font-weight: bold;
+    font-size: 3em !important;  /* Force this to apply */
+    font-weight: bold !important;
 }
 
 .intro-text h1 {
-    font-size: 1.5em;  /* Smaller size */
-    font-weight: normal;
+    font-size: 1.5em !important;  /* Force this to apply */
+    font-weight: normal !important;
 }
