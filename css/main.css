@@ -3621,14 +3621,3 @@ html[data-useragent*='rv:11.0'] .ss-go-top::after {
 .hot-pink-bar {
   background-color: #ff69b4 !important;
 }
-
-
-h3 {
-    font-size: 3em;  /* Bigger size */
-    font-weight: bold;
-}
-
-h1 {
-    font-size: 1.5em;  /* Smaller size */
-    font-weight: normal;
-}
